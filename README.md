@@ -96,4 +96,9 @@ change the `ID` datatype from int to Object
 - quoted_status 
 >change the `id` column name to tweet_id for easy analysis
 
-## Code
+# Insights:
+1. from the `source` column : Twitter for iPhone has the highest population
+
+2. pupper has the highest population on the stages of Dog
+
+3. en(english) has the highest population in the `lang` columns
